@@ -10,7 +10,7 @@ This is completely open source: https://github.com/sw-yx/async-react-toolbox I a
 
 ## Usage - chrome extension
 
-The extension is [here](https://chrome.google.com/webstore/detail/fbchcodfbfjeededacomngobhnndcgol) - waiting for it to show up on the Chrome store. Then:
+The extension is <a href="https://chrome.google.com/webstore/detail/fbchcodfbfjeededacomngobhnndcgol" target="_blank">here</a> - waiting for it to show up on the Chrome store. Then:
 
 * Install the extension.
 * Click the little browser icon
